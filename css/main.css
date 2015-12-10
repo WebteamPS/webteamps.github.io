@@ -1,0 +1,23 @@
+body {
+	background-color: #e20040;
+}
+h1 {
+	color: #fff;
+}
+/*
+------------
+RESPONSIVE
+------------
+*/
+@media (max-width: 992px) and (min-width: 320px) {
+
+}
+@media only screen and (max-width: 768px) and (min-width: 320px){
+
+}
+@media only screen and (max-width: 768px) and (min-width: 480px){
+
+}
+@media only screen and (max-width: 480px) and (min-width: 320px){
+
+}
